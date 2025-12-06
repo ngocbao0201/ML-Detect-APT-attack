@@ -1,0 +1,17 @@
+2025-12-02 18:04:06 INFO  cic.cs.unb.ca.ifm.Cmd    You select: uploads\test.pcap
+2025-12-02 18:04:06 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: csv
+2025-12-02 18:04:07 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-12-02 18:04:27 INFO  cic.cs.unb.ca.ifm.Cmd    You select: uploads\
+2025-12-02 18:04:27 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: csv
+2025-12-02 18:04:55 INFO  cic.cs.unb.ca.ifm.Cmd    You select: uploads\test.pcap
+2025-12-02 18:04:55 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: csv
+2025-12-02 18:04:55 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-12-02 18:07:56 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\Workspace\AI\VBFinal\uploads\test.pcap
+2025-12-02 18:07:56 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\Workspace\AI\VBFinal\csv
+2025-12-02 18:07:56 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-12-02 18:08:53 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\Workspace\AI\VBFinal\uploads\test.pcap
+2025-12-02 18:08:53 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\Workspace\AI\VBFinal\csv
+2025-12-02 18:08:53 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
+2025-12-02 18:10:50 INFO  cic.cs.unb.ca.ifm.Cmd    You select: D:\Workspace\AI\VBFinal\uploads\test.pcap
+2025-12-02 18:10:50 INFO  cic.cs.unb.ca.ifm.Cmd    Out folder: D:\Workspace\AI\VBFinal\csv
+2025-12-02 18:10:50 INFO  cic.cs.unb.ca.ifm.Cmd    CICFlowMeter received 1 pcap file
